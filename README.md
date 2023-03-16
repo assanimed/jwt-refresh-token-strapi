@@ -1,4 +1,7 @@
-<p style="text-align:center;font-weight: bold"> JWT Refresh Token for Strapi  </p>
+<p style="text-align:center;font-weight: bold">
+
+    <center>JWT Refresh Token for Strapi</center>
+</p>
 
 
 ⚠ check `package.json` for strapi version
@@ -14,10 +17,10 @@ just drop `src` folder to your strapi root folder and chechah
 
 
 ###### 🔰 fetch API
-##### `  credentials: "include"`
+##### `credentials: "include"`
 
 ###### 🔰 Axios 
-##### `  withCredentials: true `
+##### `withCredentials: true `
 
 ###### 🔰 Other HTTP Client 
 ##### `Access-Control-Allow-Credentials: true`
