@@ -1,7 +1,11 @@
-<p style="text-align:center;font-weight: bold">
+<h1>
+<center>
+    JWT Refresh Token for Strapi
+</center>
+</h1>
 
-    <center>JWT Refresh Token for Strapi</center>
-</p>
+***
+
 
 
 ⚠ check `package.json` for strapi version
